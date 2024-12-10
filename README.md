@@ -42,7 +42,7 @@ Special thanks to the following awesome projects!
 ## Citation
 If you make use of our work, please cite our paper.
 ```bibtex
-@article{DCSZ,
+@article{Deblur4DGS,
   title={Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video},
   author={Wu, Renlong and Zhang, Zhilu and Chen, Mingyang and Fan, Xiaopeng and Yan, Zifei, and Zuo, Wangmeng},
   journal={arXiv preprint arXiv:2412.06424},
