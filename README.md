@@ -8,10 +8,9 @@ PyTorch implementation of [**Deblur4DGS: 4D Gaussian Splatting from Blurry Monoc
 
 
 
-<a href="https://youtu.be/1I2N2IDneUQ">
-  <img src="/home/wrl/8T/DeblurNeRF/release/2080Ti/Deblur4DGS/figures/intro.png" alt="Watch the video" style="width:90%;"/>
-</a>
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1I2N2IDneUQ/0.jpg)](https://www.youtube.com/watch?v=1I2N2IDneUQ) -->
 
+[![IMAGE ALT TEXT HERE](./figures/intro.png)](https://www.youtube.com/watch?v=1I2N2IDneUQ)
 
 ## 1. Abstract
 Recent 4D reconstruction methods have yielded impressive results but rely on sharp videos as supervision. However, motion blur often occurs in videos due to camera shake and object movement, while existing methods render blurry results when using such videos for reconstructing 4D models.
