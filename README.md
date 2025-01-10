@@ -47,7 +47,7 @@ We use cuda12.2 and provide detailed dependencies in requirements.txt.
 
 ### 4.3. Quick Start 
 - Train on 288x512 dataset, run [`bash ./train_low.sh`](./train_low.sh)
-- Train on 720x1920 dataset, run [`bash ./train_high.sh`](./train_high.sh)
+- Train on 720x1280 dataset, run [`bash ./train_high.sh`](./train_high.sh)
 
 ## Acknowledgement
 
