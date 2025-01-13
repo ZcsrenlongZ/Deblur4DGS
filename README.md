@@ -36,7 +36,7 @@ Compared with state-of-the-art 4D reconstruction methods, Deblur4DGS produces mo
 
 ## 4. Datasets and Quick Start
 ### 4.1. Datasets
-Please download the data at https://pan.baidu.com/s/1f4FJaq5EHd9pcwvftKeO4w?pwd=59e5.
+Please download the data at https://pan.baidu.com/s/1-vzJKH27_T580rSwWgxN8w?pwd=6zn7.
 
 For your custom data, please refer to [Shape-of-Motion](https://github.com/vye16/shape-of-motion) to pre-process data.
 
