@@ -427,7 +427,7 @@ class Trainer:
         # continuous pose
         if len(batch_sta) == 3:
             loss = torch.mean(torch.stack(loss_batch, 0))
-            reg = torch.mean(torch.abs(all_RTS[0][-1] - all_RTS[1][0])) + torch.mean(torch.abs(all_RTS[0][0] - all_RTS[1][-1]))
+            reg = torch.mean(torch.abs(all_RTS[0][-1] - all_RTS[1][0])) + torch.mean(torch.abs(all_RTS[2][0] - all_RTS[1][-1]))
             loss + reg
         return loss, stats, num_rays_per_step, num_rays_per_sec
 
